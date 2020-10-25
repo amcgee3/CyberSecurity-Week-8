@@ -23,13 +23,13 @@ Vulnerability #1: SQLi
 
 Description:
 
-<img src="blue1.gif">
+<img src="Blue1.gif">
 
 Vulnerability #2: Session Hijack
 
 Description:
 
-<img src="blue2.gif">
+<img src="Blue2.gif">
 
 ## Green
 
@@ -37,13 +37,13 @@ Vulnerability #1: User Enumeration
 
 Description:
 
-<img src="green1.gif">
+<img src="Green1.gif">
 
 Vulnerability #2: Persistent XSS
 
 Description:
 
-<img src="green2.gif">
+<img src="Green2.gif">
 
 
 ## Red
@@ -52,13 +52,13 @@ Vulnerability #1: IDOR
 
 Description:
 
-<img src="red1.gif">
+<img src="Red1.gif">
 
 Vulnerability #2: CSRF
 
 Description:
 
-<img src="red2.gif">
+<img src="Red2.gif">
 
 
 ## Notes
